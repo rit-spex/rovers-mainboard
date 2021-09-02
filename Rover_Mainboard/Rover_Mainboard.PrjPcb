@@ -176,6 +176,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOJPUDWD
 
+[Document9]
+DocumentPath=..\..\rovers_altiumlibrary\Project Outputs for rovers_library\rovers_library.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=C:\Users\Public\Documents\Altium\Projects\SPEX Libraries\*.*
 IncludeSubFolders=1
@@ -303,7 +320,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
